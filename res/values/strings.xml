@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOS BH</string>
+    <string name="hello_world">Olá!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_home">Serviços</string>
+    <string name="title_activity_cadastro">Cadastro</string>
+    <string name="title_activity_activity_user">Prestador</string>
+    <string name="title_activity_contrata">Contratar</string>
+    <string name="title_activity_activity_contratados">Contratados</string>
+    <string name="title_activity_avaliar">Avaliar Serviço</string>
+
+</resources>
